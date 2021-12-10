@@ -1,0 +1,22 @@
+form{
+  margin: auto;
+  width: 500px;
+  border: 2px solid #ccc;
+  padding: 30px;
+  background:#fff;
+  border-radius: 15px;
+}
+.form1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+input{
+  display: block;
+  border: 2px solid #ccc;
+  width: 95%;
+  padding: 10px;
+  margin: 10px auto;
+  border-radius: 5px;
+}
